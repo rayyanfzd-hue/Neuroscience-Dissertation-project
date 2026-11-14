@@ -60,6 +60,3 @@ aSwitchListAnalyzed_Adult_DG_0.025 <- isoformSwitchTestSatuRn(
 
 extractSwitchSummary(aSwitchListAnalyzed_Adult_DG_0.025)
 
-
-
-

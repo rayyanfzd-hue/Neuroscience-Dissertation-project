@@ -63,5 +63,3 @@ aSwitchListAnalyzed_Adult_PFC_0.025 <- isoformSwitchTestSatuRn(
 
 extractSwitchSummary(aSwitchListAnalyzed_Adult_PFC_0.025)
 
-
-
